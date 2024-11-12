@@ -1,16 +1,22 @@
 body {
-    color: purple;
-    background: white;
+    color: red;
+    background: rgb(184, 156, 213);
 header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
-    font-size: 32px;
+    font-size: 28px;
     color: rgb(42, 122, 228);
+   padding-bottom: 40px;
+  padding-top: 40px;
+
+
 }
   body {
   color: white;
   background: black;
   margin: 0px;
  }
+  
+ 
   
   
