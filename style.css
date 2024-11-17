@@ -1,27 +1,4 @@
 body {
-    color: red;
-    background: white;
-header {
-    border-bottom: solid 2px rgb(42, 122, 228);
-    padding: 15px;
-    font-size: 28px;
-    color: rgb(42, 122, 228);
-    padding-bottom: 20px;
-    padding-top: 20px;
-    display: flex;
-    justify-content: center;
-  
-  div {
-    margin-right: 20px;
-}
-
-
-
-
-}
-  body {
   color: white;
   background: black;
-  margin: 0px;
- }
-  
+}
