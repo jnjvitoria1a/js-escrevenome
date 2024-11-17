@@ -1,6 +1,6 @@
 body {
   color: brown;
-  background: beige;
+  background: black;
   font-family: "Dancing Script", cursive;
   font-size: 25px;
 }
@@ -9,10 +9,10 @@ header {
     border-bottom: solid 2px brown;
     padding: 20px;
     font-size: 45px;
-    color: brown;
+    color: beige;
 }
 
-section {
+.chamada {
    background: beige;
     padding-bottom: 80px;
     padding-top: 80px;
@@ -30,4 +30,19 @@ h1 {
 
 p {
   font-size:20px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px;
 }
